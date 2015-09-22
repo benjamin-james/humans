@@ -1,0 +1,10 @@
+				HUMANS
+		Don't you wanna killall humans?
+
+Now you can! This program, humans, will create a few child processes
+that basically sit around and live their lives until you want to killall humans.
+
+INSTALLATION
+	use the makefile
+	really
+
